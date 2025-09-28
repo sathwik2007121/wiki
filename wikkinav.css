@@ -1,0 +1,50 @@
+.navigation{
+    /* border: 2px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    position: fixed;
+    width: 100%;
+}
+input{
+width: 500px;
+border: none;
+
+}
+img{
+    width: 250px;
+    height: 40px;
+    margin-top: 9px;
+    margin-bottom: 5px;
+}
+.searchbar{
+    border: 1px solid black;
+    height: 30px;
+    margin-top: 15px;
+    display: flex;
+    align-content: center;
+    margin-left: 60px;
+    width: 500px;
+    
+
+}
+svg{
+    margin-top: 3px;
+}
+.anchor{
+    margin-left: 385px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: 20px;
+    
+    
+
+}
+.anchor div{
+    margin-left: 15px;
+    text-decoration: none;
+}
+.anchor a{
+    text-decoration: none;
+}

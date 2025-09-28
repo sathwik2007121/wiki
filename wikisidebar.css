@@ -1,0 +1,40 @@
+.container{
+   
+    height: 500%;
+    width: 100%;
+    display: flex;
+    
+}
+.left_sidebar{
+  
+    width: 13%;
+    height: 700px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.left_sidebar a{
+    display: flex;
+    margin-top: 15px;
+    text-decoration: none;
+}
+.body{
+  
+    height: 800px;
+    width: 70%;
+    padding-left: 20px;
+ 
+
+}
+.right_sidebar{
+   
+    width: 15%;
+    height: 800px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.side_headding{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
